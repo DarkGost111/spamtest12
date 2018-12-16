@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("487745714227511316")
 setInterval(function() {
-channel.send(`كسمكم @🤴🏻OWNER🤴🏻 @👑CO OWNER👑 @🔱Super admin🔱 `);
+channel.send(`3obD The Top In The Word`);
 }, 30)
 })
 
