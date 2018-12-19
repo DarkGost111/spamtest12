@@ -6,7 +6,7 @@ console.log("Scrpit By Legend");
 client.on("ready", () => {
 let channel =     client.channels.get("487745714227511316")
 setInterval(function() {
-channel.send(`3obD The Top In The Word`);
+channel.send(`#credits ! | ℓєɢєиɒ ⁹⁹☕#6178 68000`);
 }, 30)
 })
 
