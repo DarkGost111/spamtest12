@@ -4,9 +4,9 @@ console.log("Scrpit By Legend");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("487745714227511316")
+let channel =     client.channels.get("524852684583469079")
 setInterval(function() {
-channel.send(`كس امكم كلكم يا اولادي `);
+channel.send(`خروف العيد يوسف`);
 }, 30)
 })
 
