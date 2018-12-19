@@ -6,7 +6,7 @@ console.log("Scrpit By Legend");
 client.on("ready", () => {
 let channel =     client.channels.get("487745714227511316")
 setInterval(function() {
-channel.send(`#credits @! | ℓєɢєиɒ ⁹⁹☕#6178 68000`);
+channel.send(`كس امكم كلكم يا اولادي `);
 }, 30)
 })
 
